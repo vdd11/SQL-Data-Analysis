@@ -24,9 +24,10 @@ WITH top_jobs AS (
 
 SELECT 
     company_dim.name AS company_name,
-    top_jobs.*,
+    job_title,
     skills_dim.skills,
-    skills_dim.type
+    skills_dim.type,
+    salary_year_avg
 FROM 
     top_jobs
 INNER JOIN company_dim
