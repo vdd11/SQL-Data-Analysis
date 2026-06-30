@@ -5,6 +5,8 @@ This project performs an in-depth analysis of the current data job market. By an
 
 The goal of this analysis was to move beyond anecdotal evidence and use data to determine which skills offer the highest return on investment for data professionals.
 
+Link for data: https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN
+
 ## Key Insights
 * **The "Sweet Spot" Analysis:** Using quadrant analysis, we identified skills that offer both high market demand and competitive salaries.
 * **Role-Specific Trends:** We compared the specific needs of "Data Analysts" versus the broader "Data" field to highlight how skill requirements shift across roles.
